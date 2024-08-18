@@ -10,12 +10,12 @@
 
 2. Navigate into the project directory:
    ```bash
-      cd postman_clone
+   cd postman_clone
    
 3. install dependencies
    ```bash
-      npm install
+   npm install
 
 4. Running the Application
    ```bash
-      npm start
+   npm start
